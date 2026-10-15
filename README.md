@@ -22,7 +22,6 @@ I use AI tools when I code. I review what they write, test it, and make the desi
 
 ## Right now
 
-- Looking for an IT internship in Debrecen. Real dev, data, automation or DevOps work, not just admin.
 - Starting to work with [Sidekick Automations](https://sidekickautomations.hu), building AI solutions for companies, about 10 hours a week.
 
 **Stack I actually use:** Python, Kotlin, Git, GitHub Actions, Flask, React, Linux.
