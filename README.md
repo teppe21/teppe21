@@ -2,7 +2,7 @@
 
 I'm a first-year Computer Science student at the University of Debrecen. I want to become a data / AI engineer, and right now I'm focused on building things that actually work instead of just collecting tutorials.
 
-Based in Debrecen, Hungary. Best way to reach me is [LinkedIn](https://www.linkedin.com/in/levente-lámfalusi-6b38b4335).
+Based in Debrecen, Hungary. Best way to reach me is [LinkedIn](https://www.linkedin.com/in/levente-lamfalusi/).
 
 ## What I'm building
 
